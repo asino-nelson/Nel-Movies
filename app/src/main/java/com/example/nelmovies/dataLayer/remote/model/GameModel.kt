@@ -1,6 +1,6 @@
 package com.example.nelmovies.dataLayer.remote.model
 
-data class GamesItem(
+data class GameModel(
 
     val id: Int,
     val title: String,
